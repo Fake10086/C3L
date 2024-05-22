@@ -1,6 +1,8 @@
 ***C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning***
 
-## Requirements for LLaVA
+## for LLaVA
+
+### Requirements
 
 If you are not using Linux, do *NOT* proceed, see instructions for [macOS](https://github.com/haotian-liu/LLaVA/blob/main/docs/macOS.md) and [Windows](https://github.com/haotian-liu/LLaVA/blob/main/docs/Windows.md).
 
@@ -24,7 +26,9 @@ pip install -e ".[train]"
 pip install flash-attn --no-build-isolation
 ```
 
-## Requirements for MiniGPT-4
+##  for MiniGPT-4
+
+### Requirements
 
 Git clone our repository and cd MiniGPT-4 folder, creating a python environment and activate it via the following command
 
