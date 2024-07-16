@@ -1,6 +1,7 @@
 ***C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning***
 
 ## for LLaVA
+Following standard LLava repository as below:
 
 ### Requirements
 
@@ -27,6 +28,8 @@ pip install flash-attn --no-build-isolation
 ```
 
 ##  for MiniGPT-4
+Following standard MiniGPT-4 repository as below:
+
 
 ### Requirements
 
